@@ -1,3 +1,4 @@
+<title>Deepanshu</title>
 <p>
 <img class="img-hero" style="font: inherit; border: medium; width: 200px; height: 200px; margin-top:50px ; margin-left:50px ; max-width: 100%; border-radius : 50% ; box-sizing: border-box; font-size-adjust: none; font-stretch: inherit;" src="https://i.imgur.com/z3LnBcs.png" /></a></span></p>
 <p style=" margin-top:100px ; margin-left:50px ;"><span style="color: #0000B2; font-size: 300%;">I'm Deepanshu, a Java coder, an Android Developer and a Machine Learning Enthusiast.</span></p>
